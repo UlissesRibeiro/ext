@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "YoutubePopUp",
+    "description": "Extensão de testes para chrome",
+    "author": "Ulisses Gomes Ribeiro",
+    "browser_action": {
+   	 "default_title": "Hello World",
+   	 "default_popup": "index.html"
+   	 //"default_icon": "icon.png"
+    }
+}
